@@ -1,2 +1,2 @@
 # House-Price-Project
-This is a house price project 
+Deployment of a model that predicts house prices 
